@@ -6,6 +6,10 @@ remain blocked. Every blocked result requires fresh matching runtime audit evide
 
 Built by **LDS Team** · An LDS project · Apache-2.0 · version 1.0.0
 
+![AgentGuard running one allowed and three blocked network checks with audit evidence](docs/media/preview.gif)
+
+**Build it step by step:** the free guide on [Let's Data Science](https://letsdatascience.com/projects/agentguard) walks through each piece, with checks you can run, hints and screen recordings.
+
 ## What you build
 
 The interface and CLI bridge are provided. Implement three small modules:
